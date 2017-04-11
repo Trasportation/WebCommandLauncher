@@ -1,0 +1,6 @@
+E:\Data\Progetti\Web\WebCommandLaucher\WebCommandLaucher\bin\WebCommandLaucher.dll.config
+E:\Data\Progetti\Web\WebCommandLaucher\WebCommandLaucher\bin\WebCommandLaucher.dll
+E:\Data\Progetti\Web\WebCommandLaucher\WebCommandLaucher\bin\WebCommandLaucher.pdb
+E:\Data\Progetti\Web\WebCommandLaucher\WebCommandLaucher\obj\Release\WebCommandLaucher.dll
+E:\Data\Progetti\Web\WebCommandLaucher\WebCommandLaucher\obj\Release\WebCommandLaucher.pdb
+E:\Data\Progetti\Web\WebCommandLaucher\WebCommandLaucher\obj\Release\WebCommandLaucher.csprojResolveAssemblyReference.cache

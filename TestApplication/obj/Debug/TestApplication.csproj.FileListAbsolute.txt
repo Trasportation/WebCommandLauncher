@@ -1,0 +1,4 @@
+E:\Data\Progetti\Web\WebCommandLaucher\TestApplication\bin\Debug\TestApplication.exe
+E:\Data\Progetti\Web\WebCommandLaucher\TestApplication\obj\Debug\TestApplication.exe
+E:\Data\Progetti\Web\WebCommandLaucher\TestApplication\obj\Debug\TestApplication.pdb
+E:\Data\Progetti\Web\WebCommandLaucher\TestApplication\bin\Debug\TestApplication.pdb
